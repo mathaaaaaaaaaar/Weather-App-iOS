@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8563C7C5-BF99-4F56-94F7-39B29356AA2D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F5C7547-C657-4640-94FC-2443B04FBB57"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab8-Weather-App/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getClimateImage(imageURL:weatherImageView:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2F5C7547-C657-4640-94FC-2443B04FBB57 - 29973a17b9a98704"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab8_Weather_App.ViewController.getClimateImage(imageURL: Foundation.URL, weatherImageView: __C.UIImageView) -&gt; ()"
+                  moduleName = "Lab8-Weather-App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mathar/Developer/School/PROG8471/Lab8-Weather-App/Lab8-Weather-App/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "2F5C7547-C657-4640-94FC-2443B04FBB57 - 58d440a189845957"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Lab8_Weather_App.ViewController.getClimateImage(imageURL: Foundation.URL, weatherImageView: __C.UIImageView) -&gt; ()"
+                  moduleName = "Lab8-Weather-App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mathar/Developer/School/PROG8471/Lab8-Weather-App/Lab8-Weather-App/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15CD53A5-F8A0-412D-88BD-0A7B8F7E577F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab8-Weather-App/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getClimateImage(imageURL:weatherImageView:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
